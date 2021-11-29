@@ -3,8 +3,7 @@ Save Game Editor for Disco Elysium
 
 This is a very basic save editor.  It will let you change the number of available skipp points, money amount, and the number of healing items for health and morale.
 
-Downloed the Release.zip from the releases section https://github.com/jbloomfield1/DiscoSaveEdit/releases/tag/Release
-Unzip
+Downloed the binaries from the releases section https://github.com/jbloomfield1/DiscoSaveEdit/releases/tag/Release
 You should probably make sure the game is not running.  It did work fine for me while testing with DE running, but I can't promise the same for you.
 Run DiscoSaveEdit.exe
 Click Open
